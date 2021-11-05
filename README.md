@@ -1,4 +1,4 @@
-# TO-DO-ers
+# TO-DO-ers backend
 
 An app to share to-dos with family and friends 🔥
 
