@@ -1,6 +1,14 @@
-# TO-DO-ers backend
+# TO-DO-ers
 
 An app to share to-dos with family and friends 🔥
+
+## How to use?
+
+1- Clone the repo
+
+2- Run `npm install`
+
+3- Run `npm run dev`
 
 Main features:
 
@@ -12,4 +20,4 @@ Main features:
 
 - [ ] CRUD operations for both, users and to-do items
 
-other items can be added later
+Used UI library: IBM Carbon, view it here https://carbon-components-svelte.onrender.com/
